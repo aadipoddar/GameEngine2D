@@ -1,0 +1,6 @@
+D:\Game Engine\FNA\bin\Debug\FNA.dll.config
+D:\Game Engine\FNA\bin\Debug\FNA.dll
+D:\Game Engine\FNA\bin\Debug\FNA.pdb
+D:\Game Engine\FNA\obj\x64\Debug\FNA.csproj.CoreCompileInputs.cache
+D:\Game Engine\FNA\obj\x64\Debug\FNA.dll
+D:\Game Engine\FNA\obj\x64\Debug\FNA.pdb

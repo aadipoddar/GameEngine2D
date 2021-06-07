@@ -1,0 +1,4 @@
+D:\Game Engine\FNA\bin\Release\FNA.dll.config
+D:\Game Engine\FNA\bin\Release\FNA.dll
+D:\Game Engine\FNA\obj\x64\Release\FNA.csproj.CoreCompileInputs.cache
+D:\Game Engine\FNA\obj\x64\Release\FNA.dll
